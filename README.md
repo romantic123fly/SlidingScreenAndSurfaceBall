@@ -1,2 +1,2 @@
 # SlidingScreenAndSurfaceBall
-球形分布+UGUI切换卡牌
+实例的球形分布+UGUI切换卡牌效果
